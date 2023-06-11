@@ -1,5 +1,3 @@
-# DSA-Notes
-important data structure and algorithm notes
 # Data Structure and Algorithm
 
 Data structures are a way of organizing and storing data in a computer program efficiently so that it can be accessed and used efficiently. They are essential for designing efficient algorithms and for solving complex problems in computer science. Some examples of data structures include:
